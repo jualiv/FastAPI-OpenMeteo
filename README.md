@@ -23,3 +23,7 @@ uvicorn  main:app --reload --host 0.0.0.0 --port 8000
 
 En otra terminal (con el servidor levantado): 
 streamlit run dashboard.py
+
+## Dashboard
+
+![dashboard](img/dashboard.png)
